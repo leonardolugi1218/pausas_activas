@@ -1,0 +1,22 @@
+[
+    {
+        "id": "neck_stretch",
+        "name": "Estiramiento de cuello",
+        "description": "Incline su cabeza hacia un lado\nMantenga por 10 segundos\nRepita del otro lado",
+        "type": "stretch",
+        "duration": 30,
+        "image": "neck_stretch.png",
+        "video": "neck_stretch.mp4",
+        "difficulty": "fácil"
+    },
+    {
+        "id": "shoulder_roll",
+        "name": "Rotación de hombros",
+        "description": "Levante los hombros hacia las orejas\nRote hacia adelante en círculos\nRepita hacia atrás",
+        "type": "stretch",
+        "duration": 40,
+        "image": "shoulder_roll.png",
+        "video": "shoulder_roll.mp4",
+        "difficulty": "fácil"
+    }
+]
